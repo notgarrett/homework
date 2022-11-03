@@ -1,0 +1,9 @@
+function test (argument) (
+    object (
+        object x;
+        object y;
+    )
+    x = 5; 
+    y = (object, object);
+    string parenthesis = "()()()";
+)
